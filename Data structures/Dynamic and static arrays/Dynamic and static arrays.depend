@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600277285 source:d:\becoming intermediate in python\data structures\dynamic and static arrays\main.cpp
+	<iostream>
+	<array>
+
